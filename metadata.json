@@ -1,0 +1,7 @@
+{
+  "name": "AI Treasures Private Client RM Portal",
+  "description": "Executive relationship management portal for AI Treasures Private Client & MBAI Bank Limited, featuring 360° portfolio overview, collateral & credit monitoring, competitor wallet intelligence, 5-year advisory blueprints, and RM revenue tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
