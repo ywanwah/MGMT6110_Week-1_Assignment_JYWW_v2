@@ -33,4 +33,6 @@ Change nothing else.
 ---
 ## Prompt 5 - Added text box as note for commentaries as 'RM Call Notes' and 'Commentaries'. 
 ---
-## Prompt 6 - Added additional page to dashboard to include Market Insights for Top 3 Competitors products as Market Insights as Output. 
+##  Prompt 6 - Added counter-pitch for Top 3 competitor's product currently considered by customers. This would allow RM to have the live opportunity to retain the customers and act on product retention efficiently.
+---
+## Prompt 7 - Added additional page to dashboard to include Market Insights for Top 3 Competitors products as Market Insights as Output. 
